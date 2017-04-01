@@ -1,6 +1,20 @@
 /* CSS */
 
+/* --- Typos --- */
+@font-face {
+  font-family: Roboto-Regular;
+  src: local("Roboto-Regular"),
+       url(font/Roboto-Regular.ttf);
+}
+@font-face {
+  font-family: Roboto-Thin;
+  src: local("Roboto-Thin"),
+       url(font/Roboto-Thin.ttf);
+}
+
+/* --- Général --- */
 BODY {
   margin: 0;
   padding: 0;
+  font-family: "Roboto-Regular";
 }
