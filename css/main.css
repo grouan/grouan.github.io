@@ -46,4 +46,5 @@ h1, h2, h3, h4; h5, h6 {
   padding:10px;
   color:#CCC;
   text-align:right;
+  line-height: 10px;
 }
