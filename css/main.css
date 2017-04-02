@@ -37,3 +37,13 @@ BODY {
 h1, h2, h3, h4; h5, h6 {
   font-family: "Roboto-Thin";
 }
+
+/* --- FOOTER --- */
+.copyright {
+  float:right;
+  border-top:5px solid #DDD;
+  margin-top:20px;
+  padding:10px;
+  color:#CCC;
+  text-align:right;
+}
