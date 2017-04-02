@@ -41,7 +41,7 @@ h1, h2, h3, h4; h5, h6 {
 /* --- FOOTER --- */
 .copyright {
   float:right;
-  border-top:5px solid #DDD;
+  border-top:5px solid #d20962; /* rose */
   margin-top:20px;
   padding:10px;
   color:#CCC;
