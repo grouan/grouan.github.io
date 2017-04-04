@@ -49,8 +49,8 @@ h1, h2, h3, h4; h5, h6 {
 @media (max-width: 1200px) {
   .separe_blanc {
     visibility: visible;
-    border-bottom: 1px solid #FFF;
-    margin: 10px 0px;
+    border-bottom: 1px dashed #FFF;
+    margin: 10px;
 }
 
 /* --- FOOTER --- */
