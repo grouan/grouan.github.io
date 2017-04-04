@@ -45,8 +45,10 @@ h1, h2, h3, h4; h5, h6 {
   border-top-left-radius: 5px;
   border-top-right-radius: 5px;
 }
+.separe_blanc { visibility: hidden; }
 @media (max-width: 1200px) {
   .separe_blanc {
+    visibility: visible;
     border-bottom: 1px solid #FFF;
     margin: 10px 0px;
 }
