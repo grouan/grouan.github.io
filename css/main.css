@@ -45,6 +45,11 @@ h1, h2, h3, h4; h5, h6 {
   border-top-left-radius: 5px;
   border-top-right-radius: 5px;
 }
+@media (max-width: 1200px) {
+  .separe_blanc {
+    border-bottom: 1px solid #FFF;
+    margin: 10px 0px;
+}
 
 /* --- FOOTER --- */
 .copyright {
