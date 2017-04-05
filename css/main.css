@@ -61,7 +61,7 @@ h1, h2, h3, h4; h5, h6 {
 .copyright {
   float:right;
   border-top:5px solid #d20962; /* rose */
-  margin-top:20px;
+  margin-top:40px;
   padding:10px;
   color:#CCC;
   text-align:right;
